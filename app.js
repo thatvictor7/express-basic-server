@@ -39,7 +39,7 @@ app.delete('/characters/:id', (req,res)=>{
 
 
 app.get('/', (req, res) => {
-    res.send("🦖")
+    res.send("🦖🦖🦖v")
   })
 
 app.get('/characters', (req,res) => {
